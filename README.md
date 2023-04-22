@@ -1,2 +1,4 @@
 # PaiZ
-Paleografie in Zeeland
+# Paleografie in Zeeland
+
+# GitHub wordt gebruikt als opstapje naar 
